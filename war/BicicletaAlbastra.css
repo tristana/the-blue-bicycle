@@ -17,22 +17,12 @@ a {
 }
 
 a:hover {
-	color: #81e8fc;
+	color: #6ed7ff;
 	text-decoration: none;
 }
 
-h1 {
-	font-size: 400%;
-	font-family: 'Poiret One', cursive;
-	
-	margin: .8em 0 .2em 0;
-	padding: 0;
-	color: #81e8fc;
-}
-
-h2,h3 { 
-	font-size: 200%;
-	font-family: 'Josefin Sans', Helvetica, Arial, sans-serif;
+h1,h2,h3 { 
+    color: #81e8fc;
 	margin: .8em 0 .2em 0;
 	padding: 0;
 }
@@ -42,15 +32,8 @@ p {
 	padding: 0;
 }
 
-.subtitle{
-	font-style:italic;
-	margin: .8em 0 .2em 0;
-	padding: 0;
-	color: #81e8fc;
-}
-
 img {
-	margin: 10px 0 5px;
+	margin: 10px 0px 0px 5px;
 }
 
 /* Header styles */
@@ -135,6 +118,7 @@ img {
 #footer p {
 	padding: 10px;
 	margin: 0;
+	color: #6ed7ff;
 }
 
 /* Full page settings */

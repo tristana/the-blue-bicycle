@@ -24,12 +24,15 @@ a:hover {
 h1 {
 	font-size: 400%;
 	font-family: 'Poiret One', cursive;
+	
 	margin: .8em 0 .2em 0;
 	padding: 0;
 	color: #81e8fc;
 }
 
 h2,h3 { 
+	font-size: 200%;
+	font-family: 'Josefin Sans', Helvetica, Arial, sans-serif;
 	margin: .8em 0 .2em 0;
 	padding: 0;
 }
@@ -37,6 +40,13 @@ h2,h3 {
 p {
 	margin: .4em 0 .8em 0;
 	padding: 0;
+}
+
+.subtitle{
+	font-style:italic;
+	margin: .8em 0 .2em 0;
+	padding: 0;
+	color: #81e8fc;
 }
 
 img {
@@ -100,7 +110,7 @@ img {
 
 .leftmenu .colleft {
 	right: 75%; /* right column width */
-	background: #f4f4f4; /* left column background colour */
+	/*background: #f4f4f4;  left column background colour */
 }
 
 .leftmenu .col1 {

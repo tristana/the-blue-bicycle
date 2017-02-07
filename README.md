@@ -12,7 +12,9 @@ This is the source code for the website [www.bicicleta-albastra.com](http://www.
 
 ##<a name="how">How does it work</a>
 It's just a simple HTML & JavaScript website.
+
 The gallery section uses a library called pwi ([Picasa Webalbum Integrator](https://code.google.com/archive/p/pwi/)).
+
 It is hosted on Google App Engine.
 
 

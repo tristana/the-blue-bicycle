@@ -1,3 +1,6 @@
+![alt text](https://github.com/ivEleven/BicicletaAlbastra/blob/master/war/favicon.ico "Bicicleta Albastra Logo")
+
+
 # Bicicleta Albastra
 
 - [What is this repo or project?](#what)

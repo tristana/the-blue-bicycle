@@ -14,7 +14,7 @@ This is the source code for the website [www.bicicleta-albastra.com](http://www.
 
 
 ##<a name="how">How does it work</a>
-It's just a simple HTML & JavaScript website.
+It's just a simple HTML & Javascript website.
 
 The gallery section uses a library called pwi ([Picasa Webalbum Integrator](https://code.google.com/archive/p/pwi/)).
 
@@ -27,3 +27,4 @@ A simple portfolio website for an artist!
 
 ##<a name="who">Who will use this repo or project</a>
 Me! :)
+

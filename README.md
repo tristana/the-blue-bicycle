@@ -1,14 +1,14 @@
 ![Bicicleta Albastra Logo](https://raw.githubusercontent.com/tristana/the-blue-bicycle/master/war/favicon.ico)
 
 
-# Bicicleta Albastr?
+# Bicicleta Albastra
 
 
 
-\- [What is this repo or project?](#what)
-\- [How does it work?](#how)
-\- [What is the goal of this project?](#why)
-\- [Who will use this repo or project?](#who)
+- [What is this repo or project?](#what)
+- [How does it work?](#how)
+- [What is the goal of this project?](#why)
+- [Who will use this repo or project?](#who)
 
 
 
